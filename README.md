@@ -1,6 +1,6 @@
 # Python Wikipedia crawler.
 
-The scrapped content includes:
+A wikipedia crawler based on the respective api that crawls the following related information to the user's input:
 
 - top 5 related words to the input
 
