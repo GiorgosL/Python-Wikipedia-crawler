@@ -1,4 +1,4 @@
-# Python Wikipedia crawler.
+# Python-Wikipedia-crawler
 
 A wikipedia crawler based on the respective api that crawls the following related information to the user's input:
 
